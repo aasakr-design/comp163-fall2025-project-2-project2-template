@@ -5,7 +5,7 @@ Date: 11/11/2025
 
 AI Usage: AI helped me understand the code better and helped me debug stuff when 
 I got confused. I still wrote the code myself, but the AI explained things in a 
-simple way like how a high school student would ask for help.
+simple way.
 """
 
 # ============================================================================
